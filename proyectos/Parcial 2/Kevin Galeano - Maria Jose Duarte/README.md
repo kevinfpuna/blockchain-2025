@@ -13,6 +13,12 @@ El proyecto ya está desplegado y funcionando en:
 👉 https://kevinmajo-blockchain.vercel.app/  
 Puedes probar directamente la aplicación Web3 en esa URL, mintear, comprar y retirar NFTs con MetaMask. 🚀
 
+✅ El contrato inteligente fue desplegado exitosamente en la testnet Ephemery con la siguiente dirección:
+```0xf1aE26e9E03B17Bf1603c8e4665687a3Cc0b1C09```
+
+Puedes explorarlo aquí:
+👉 https://otter.bordel.wtf/address/0xf1aE26e9E03B17Bf1603c8e4665687a3Cc0b1C09
+
 ---
 
 ## 📌 Funcionalidades
